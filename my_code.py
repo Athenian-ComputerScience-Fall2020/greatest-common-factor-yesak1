@@ -1,6 +1,6 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
 #  I did probably 90% on my own but I didn't exactly know how functions worked so I refreshed my memory by looking it up. I also needed help with while loops
-
+# the website I used for reference was called stackoverflow.com
 def find_gcf(x,y): 
     if x > y:
         z=x%y
